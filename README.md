@@ -85,9 +85,10 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/reuben-lim-jr/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/reuben-lim-jr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reuben-lim" height="30" width="40" /></a>
 <a href="mailto:limreuben2000@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="email" height="30" width="40" /></a>
 </p>
+
 
 ---
 
