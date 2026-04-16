@@ -1,3 +1,5 @@
+![Banner](https://via.placeholder.com/1200x300/0e75b6/ffffff?text=Reuben+Lim+-+Developer+%26+Automation+Expert)
+
 <h1 align="center">Hi 👋, I'm Reuben Lim</h1>
 <h3 align="center">Automation Enthusiast | Security-Focused Developer | Algorithmic Trader</h3>
 
